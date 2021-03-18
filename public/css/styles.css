@@ -17,7 +17,7 @@ body {
     flex-grow: 1;
     background-color: whitesmoke;
     box-sizing: content-box;  
-    width: auto;
+    width: 400px;
     height: auto;
     padding: 30px;  
     margin-top: 10px;
